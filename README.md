@@ -1,16 +1,15 @@
-## Hi there 👋
+## Всем привет 👋
 
-<!--
-**VinicolorLilium/VinicolorLilium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий верстальщик на фрилансе
 
-Here are some ideas to get you started:
+В своей верстке придерживаюсь принципов чистого, валидного и кроссбраузерного кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Используемый стек:
+- HTML5
+- CSS3
+- JS
+- Flexbox
+- Grid CSS
+- БЭМ методология
+- отзывчивая и адаптивная верстка
+- верстка из Figma, Photoshop;
